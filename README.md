@@ -21,3 +21,5 @@ macOSやLinuxの場合:
 Bash
 java --module-path "C:\Program Files\Java\javafx-sdk-21\lib" --add-modules javafx.controls,javafx.graphics -jar game1.jar
 このコマンドを game1.jar があるフォルダで実行すれば、JavaFXの部品が正しく読み込まれ、ゲームが起動するはずです。
+
+下に実行動画を挙げます。

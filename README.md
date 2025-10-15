@@ -22,6 +22,10 @@ Bash
 java --module-path "C:\Program Files\Java\javafx-sdk-21\lib" --add-modules javafx.controls,javafx.graphics -jar game1.jar
 このコマンドを game1.jar があるフォルダで実行すれば、JavaFXの部品が正しく読み込まれ、ゲームが起動するはずです。
 
+ゲームを起動する際windowsの設定で表示画面（ディスプレイ）を100パーセントが推奨です。150パーセントではゲーム画面全体が表示できません。
+
 ゲーム1.mp4にゲームの実行のデモ動画があります。
 
 またゲームの説明をpdfにゲーム1.pdfとしてまとめております。
+
+注意が多く申し訳ありません。

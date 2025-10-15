@@ -23,3 +23,5 @@ java --module-path "C:\Program Files\Java\javafx-sdk-21\lib" --add-modules javaf
 このコマンドを game1.jar があるフォルダで実行すれば、JavaFXの部品が正しく読み込まれ、ゲームが起動するはずです。
 
 ゲーム1.mp4にゲームの実行のデモ動画があります。
+
+またゲームの説明をpdfにゲーム1.pdfとしてまとめております。
